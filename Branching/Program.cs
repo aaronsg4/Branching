@@ -11,6 +11,7 @@ namespace Branching
         static void Main(string[] args)
         {
             Console.WriteLine("Changes to master");
+            Console.WriteLine("More changes to master");
         }
     }
 }
