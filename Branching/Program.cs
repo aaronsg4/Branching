@@ -15,6 +15,8 @@ namespace Branching
 
             Console.WriteLine("These are new changes to master, after adding the second feature branch");
             Console.WriteLine("More changes to master");
+
+            Console.WriteLine("More master changes");
         }
     }
 }
